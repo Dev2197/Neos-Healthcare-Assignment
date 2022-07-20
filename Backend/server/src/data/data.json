@@ -1,0 +1,44 @@
+{
+   "tasks": [
+      {
+         "id": "ee472a42c7ba890e6219633282e85dd9",
+         "status": false,
+         "title": "Scrum",
+         "userId": "a857abe38ecdaefa60e31e9058fb8a19"
+      },
+      {
+         "id": "0ce5c42bfe397147dd5a6acbab55a758",
+         "title": "Standup",
+         "status": true,
+         "userId": "a857abe38ecdaefa60e31e9058fb8a19"
+      },
+      {
+         "id": "898065f04a86f23328f894a95a28cfec",
+         "status": false,
+         "title": "Watching TV",
+         "userId": "9a0f9984e53aba9231fa44aa4f2d31e7"
+      },
+      {
+         "id": "735fef87b166f45f03b462e12945a3a9",
+         "status": false,
+         "title": "Playing Cricket",
+         "userId": "9a0f9984e53aba9231fa44aa4f2d31e7"
+      }
+   ],
+   "users": [
+      {
+         "id": "a857abe38ecdaefa60e31e9058fb8a19",
+         "userName": "uday",
+         "email": "uday@gmail.com",
+         "password": "uday@123",
+         "phoneno": "9400404010"
+      },
+      {
+         "id": "9a0f9984e53aba9231fa44aa4f2d31e7",
+         "userName": "Dev",
+         "email": "dev@gmail.com",
+         "password": "dev@123",
+         "phoneno": "9898989898"
+      }
+   ]
+}
