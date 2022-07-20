@@ -34,12 +34,12 @@ Delete task- @DELETE        /api/deletetask/:id                               ht
 
 
 ### To start the project
-#Front End
-npm install
+#Front End:
+npm install, 
 npm start
 
-#Backend
-npm install
+#Backend: 
+npm install, 
 npm run server
 
 
