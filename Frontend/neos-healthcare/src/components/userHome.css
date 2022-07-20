@@ -1,0 +1,10 @@
+.Tasks{
+    width: 80%;
+    margin: auto;
+    margin-Top: 20px;
+    display: flex;
+    justify-content: space-around;
+    place-items: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    /* border: 1px solid red; */
+}

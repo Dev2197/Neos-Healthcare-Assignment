@@ -1,0 +1,17 @@
+.navbar{
+    background-color: blue;
+    display: flex;
+    place-items: center;
+    justify-content : space-around;
+    color: white;
+    height: 40px;
+    align-items: center;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 5px;
+}
+
+
+.navbar > div {
+    cursor: pointer;
+}

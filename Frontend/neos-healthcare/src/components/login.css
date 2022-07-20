@@ -1,0 +1,38 @@
+.inputbox{
+    height: 200px;
+    width: 300px;
+    margin: auto;
+    margin-top: 100px;
+    /* border: 1px solid red; */
+}
+.inputbox input{
+    background-color: white;
+    border: 1px solid;
+    border-radius: 2px;
+    font-size: 14px;
+    /* padding: 15px; */
+    width: 90%;
+    height: 25px;
+    margin-bottom: 10px;
+}
+
+input:focus{
+    outline: none;
+}
+.btn,input[type=submit]{
+    /* width: 200px; */
+    background-color: blue;
+    border: none;
+    height: 25px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.btn{
+    width: 200px;
+}
+.createacc{
+    cursor: pointer;
+    color: red;
+    font-size: 16px;
+}
